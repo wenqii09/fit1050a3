@@ -424,33 +424,19 @@ table a, #comments a{background-color:inherit;}
 .parallax [class*="bg__"]:nth-child(2n) {
   box-shadow: inset 0 0 1em #111;
 }
-.parallax .bg__gk1 {
-  height: 85vh;
-  background-image: url(https://images.unsplash.com/photo-1496081406770-b864c2050751?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxhbGx8fHx8fHx8fHwxNjIxNTg3MjM1&ixlib=rb-1.2.1&q=80&w=1080&utm_source=unsplash_source&utm_medium=referral&utm_campaign=api-credit);
-}
-.parallax .bg__gk2 {
-	height: 80vh;
-	background-image: url(https://images.unsplash.com/photo-1607570414577-15a0c8858bd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxhbGx8fHx8fHx8fHwxNjIxNjQ4MTY0&ixlib=rb-1.2.1&q=80&w=1080&utm_source=unsplash_source&utm_medium=referral&utm_campaign=api-credit);
-}
 .parallax .bg__gk3 {
 	height: 80vh;
-	background-image: url(https://images.unsplash.com/photo-1505570554449-69ce7d4fa36b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxhbGx8fHx8fHx8fHwxNjE5MDY2MjYy&ixlib=rb-1.2.1&q=80&w=1080&utm_source=unsplash_source&utm_medium=referral&utm_campaign=api-credit);
-}
+	background-image: url(3.jpg);}
 .parallax .bg__gk4 {
 	height: 85vh;
-	background-image: url(https://images.unsplash.com/photo-1560990816-d71bc29f1e29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxhbGx8fHx8fHx8fHwxNjIxNjYxNjQz&ixlib=rb-1.2.1&q=80&w=1080&utm_source=unsplash_source&utm_medium=referral&utm_campaign=api-credit);	
-}
+	background-image: url(4.jpg);}
 .parallax .bg__gk5 {
 	height: 85vh;
-	background-image: url(https://images.unsplash.com/photo-1522211041032-a7eb9a3f8c0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxhbGx8fHx8fHx8fHwxNjIxODMzMjI5&ixlib=rb-1.2.1&q=80&w=1080&utm_source=unsplash_source&utm_medium=referral&utm_campaign=api-credit);
-}
+	background-image: url(5.jpg);}
 .parallax .bg__gk6 {
 	height: 85vh;
 	background-image: url(2.jpg);
 }
-.parallax .bg__grp {
-	height: 80vh;
-	background-image: url(https://images.unsplash.com/photo-1549341100-8c1a030b349b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxfDB8MXxhbGx8fHx8fHx8fA&ixlib=rb-1.2.1&q=80&w=1080&utm_source=unsplash_source&utm_medium=referral&utm_campaign=api-credit);}
 #frame {
 	padding-left: 50px;
 	padding-right: 50px;
